@@ -1,3 +1,3 @@
-# Project-_Recipe_App_-Guild--Zetendra_Lingamgunta-Solution
+# Project-_Recipe_App_-Guild-lakhan-singh-Solution
 
 Food Recipe app assignment
